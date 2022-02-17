@@ -7,6 +7,11 @@
 # Introduction
 Docker-compose file plus squid config file and folders to build a container image for Squid caching proxy.
 
+# Running
+```bash
+docker-compose up
+```
+
 # Debug
 
 ## System Shell
